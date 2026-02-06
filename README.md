@@ -12,3 +12,6 @@ React-based frontend application for OpenGallery that allows artists to upload a
 - React
 - JavaScript / TypeScript (use whichever you have)
 - Axios / Fetch API
+
+**Backend repository**: [https://github.com/<your-username>/opengallery-backend](https://github.com/Sarath1909/opengallery-backend)
+
